@@ -1,6 +1,7 @@
 {
   "name": "Ink's Solana Token List",
   "timestamp": "2025-01-29T00:00:00+00:00",
+  "network": "solana",
   "tokens": [
     {
       "address": "J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn",
@@ -25,6 +26,262 @@
       "name": "The Vault Staked SOL",
       "symbol": "VSOL",
       "logoURI": "https://assets.coingecko.com/coins/images/37499/standard/vsol.png"
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "mSoLzYCxHdYgdzU16g5QSh3i5K3z3KZK7ytfqcJm7So",
+      "logoURI": "https://assets.coingecko.com/coins/images/17752/standard/mSOL.png?1696517278",
+      "symbol": "MSOL",
+      "name": "Marinade Staked SOL",
+      "decimals": 9
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
+      "logoURI": "",
+      "symbol": "JSOL",
+      "name": "JPool Staked SOL",
+      "decimals": 9
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "logoURI": "",
+      "symbol": "TRUMP",
+      "name": "Official Trump",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
+      "logoURI": "",
+      "symbol": "WIF",
+      "name": "dogwifhat",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
+      "logoURI": "",
+      "symbol": "VINE",
+      "name": "Vine",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+      "logoURI": "",
+      "symbol": "ARC",
+      "name": "AI Rig Complex",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "KENJSUYLASHUMfHyy5o4Hp2FdNqZg1AsUPhfH2kYvEP",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/52547/small/aAp7HijF4Uf1SkZO3FsVMyrbBc5kux_0vIlI7Amxiu7ygza2T_Swtp8bA2KoL_yU0YWw7c52LG9wflD7b5KMZ6GNJgDtgQfmMKy75SBQ5ldIHl6qffC9SNWqKyvqKQJ5sWZgJnXztPPsuJD_IVTTdPlabPlxxuNq7OAxQcjCbRxnge3tim3QyyIrc5vTOzWR93BoZVf0pd7EzwziVlhzov.jpg?1733590142",
+      "symbol": "GRIFFAIN",
+      "name": "GRIFFAIN",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "A8C3xuqscfmyLrte3VmTqrAq8kgMASius9AFNANwpump",
+      "logoURI": "https://assets.coingecko.com/coins/images/39453/standard/fwog.png?1722318442",
+      "symbol": "FWOG",
+      "name": "Fwog",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "7GCihgDB8fe6KNjn2MYtkzZcRjQy3t9GHdC8uHYmW2hr",
+      "logoURI": "https://assets.coingecko.com/coins/images/33760/standard/image.jpg?1702964227",
+      "symbol": "POPCAT",
+      "name": "Popcat",
+      "decimals": 9
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "4k3Dyjzvzp8eMZWUXbBCjEvwSkkk59S5iCNLY3QrkX6R",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/13928/small/PSigc4ie_400x400.jpg?1696513668",
+      "symbol": "RAY",
+      "name": "Raydium",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "logoURI": "https://assets.coingecko.com/coins/images/52622/standard/PUDGY_PENGUINS_PENGU_PFP.png?1733809110",
+      "symbol": "PENGU",
+      "name": "Pudgy Penguins",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "HeLp6NuQkmYB4pYWo2zYs22mESHXPQYzXbB8n4V98jwC",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/51090/small/AI16Z.jpg?1730027175",
+      "symbol": "AI16Z",
+      "name": "ai16z",
+      "decimals": 9
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/34188/small/jup.png?1704266489",
+      "symbol": "JUP",
+      "name": "Jupiter",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "USDSwr9ApdHk5bvJKMjzff41FfuX8bSxdKcR81vTwcA",
+      "logoURI": "https://coin-images.coingecko.com/coins/images/39926/small/usds.webp?1726666683",
+      "symbol": "USDS",
+      "name": "USDS",
+      "decimals": 6
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
+      "logoURI": "",
+      "symbol": "CBBTC",
+      "name": "Coinbase Wrapped BTC",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
+      "logoURI": "",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC (Wormhole)",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
+      "logoURI": "",
+      "symbol": "JLP",
+      "name": "Jupiter Perpetuals Liquidity Provider Token",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
+      "logoURI": "",
+      "symbol": "ME",
+      "name": "Magic Eden",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "9McvH6w97oewLmPxqQEoHUAv3u5iYMyQ9AeZZhguYf1T",
+      "logoURI": "",
+      "symbol": "ANON",
+      "name": "Hey Anon",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "rndrizKT3MK1iimdxRdWabcF7Zg7AR5T4nud4EkHBof",
+      "logoURI": "",
+      "symbol": "RENDER",
+      "name": "Render",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
+      "logoURI": "",
+      "symbol": "HNT",
+      "name": "Helium",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "logoURI": "",
+      "symbol": "BONK",
+      "name": "Bonk",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
+      "logoURI": "",
+      "symbol": "SONIC",
+      "name": "Sonic SVM",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
+      "logoURI": "",
+      "symbol": "MELANIA",
+      "name": "Melania Meme",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
+      "logoURI": "",
+      "symbol": "JUPSOL",
+      "name": "Jupiter Staked SOL",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
+      "logoURI": "",
+      "symbol": "PYUSD",
+      "name": "PayPal USD",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "logoURI": "",
+      "symbol": "USDT",
+      "name": "Tether",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "logoURI": "",
+      "symbol": "USDC",
+      "name": "USDC",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
+      "logoURI": "",
+      "symbol": "KMNO",
+      "name": "Kamino",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
+      "logoURI": "",
+      "symbol": "BSOL",
+      "name": "BlazeStake Staked SOL",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
+      "logoURI": "",
+      "symbol": "INF",
+      "name": "Sanctum Infinity",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
+      "logoURI": "",
+      "symbol": "SSOL",
+      "name": "Solayer Staked SOL",
+      "decimals": 0
     }
   ]
 }
