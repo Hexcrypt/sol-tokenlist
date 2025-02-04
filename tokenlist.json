@@ -142,7 +142,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "cbbtcf3aa214zXHbiAZQwf4122FBYbraNdFqgw4iMij",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f697066732e696f2f697066732f516d5a374c387964356a33366f58587964556959466946735248626933456467433452754677764d376463716765",
       "symbol": "CBBTC",
       "name": "Coinbase Wrapped BTC",
       "decimals": 0
@@ -150,7 +150,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "3NZ9JMVBmGAqocybic2c7LQCJScmgsAZ6vQqTDzcqmJh",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f334e5a394a4d56426d4741716f63796269633263374c51434a53636d6773415a3676517154447a63716d4a682f6c6f676f2e706e67",
       "symbol": "WBTC",
       "name": "Wrapped BTC (Wormhole)",
       "decimals": 0
@@ -158,7 +158,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7374617469632e6a75702e61672f6a6c702f69636f6e2e706e67",
       "symbol": "JLP",
       "name": "Jupiter Perpetuals Liquidity Provider Token",
       "decimals": 0
@@ -166,7 +166,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "MEFNBXixkEbait3xn9bkm8WsJzXtVsaJEn4c8Sam21u",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f617277656176652e6e65742f68686966547a6145446e504b6e594e69346141686b5a54556b4e4c6f4b3664336e4d695150416a42796e34",
       "symbol": "ME",
       "name": "Magic Eden",
       "decimals": 0
@@ -246,7 +246,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f45506a465764643541756671535371654d32714e31787a7962617043384734774547476b5a777954447431762f6c6f676f2e706e67",
       "symbol": "USDC",
       "name": "USDC",
       "decimals": 0
@@ -254,7 +254,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "KMNo3nJsBXfcpJTVhZcXLW7RmTwTt4GVFE7suUBo9sS",
-      "logoURI": "",
+      "logoURI": "https://cdn.kamino.finance/kamino.svg",
       "symbol": "KMNO",
       "name": "Kamino",
       "decimals": 0
@@ -262,7 +262,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f62536f31337234546b6945344b756d4c37314c73485450704c32657542594c4678366839485033706979312f6c6f676f2e706e67",
       "symbol": "BSOL",
       "name": "BlazeStake Staked SOL",
       "decimals": 0
@@ -270,7 +270,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "5oVNBeEEQvYi1cX3ir8Dx5n1P7pdxydbGF2X4TxVusJm",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f6261666b726569666c7a3278786b666e3333716a636832776a35356276626e3333713373346d6d6236627965357074336d706779347432776734652e697066732e6e667473746f726167652e6c696e6b2f",
       "symbol": "INF",
       "name": "Sanctum Infinity",
       "decimals": 0
@@ -278,9 +278,17 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "sSo14endRuUbvQaJS3dq36Q829a3A6BEfoeeRGJywEh",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c617965722d6c6162732f746f6b656e2d6d657461646174612f6d61696e2f6c6f676f2e6a7067",
       "symbol": "SSOL",
       "name": "Solayer Staked SOL",
+      "decimals": 0
+    },
+    {
+      "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
+      "address": "orcaEKTdK7LKz57vaAYr9QeNsVEPfiu6QeMU1kektZE",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f736f6c616e612d6c6162732f746f6b656e2d6c6973742f6d61696e2f6173736574732f6d61696e6e65742f6f726361454b54644b374c4b7a353776614159723951654e735645506669753651654d55316b656b745a452f6c6f676f2e706e67",
+      "symbol": "ORCA",
+      "name": "Orca",
       "decimals": 0
     }
   ]
