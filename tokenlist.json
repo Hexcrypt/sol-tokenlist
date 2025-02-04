@@ -38,7 +38,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7Q2afV64in6N6SeZsAAB81TJzwDoD6zpqmHkzi9Dcavn/logo.svg",
       "symbol": "JSOL",
       "name": "JPool Staked SOL",
       "decimals": 9
@@ -46,7 +46,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f617277656176652e6e65742f565172506a4143776e51526d78644b4254714e775069796f363578374c415437373374384b643759427a77",
       "symbol": "TRUMP",
       "name": "Official Trump",
       "decimals": 6
@@ -54,7 +54,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "EKpQGSJtjMFqKZ9KQanSqYXRcF8fBopzLHYxdM65zcjm",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f6261666b726569626b33636f7673356c7479717861323732756f646863756c6272366b656136626574696466777933616a73617632766a7a79756d2e697066732e6e667473746f726167652e6c696e6b",
       "symbol": "WIF",
       "name": "dogwifhat",
       "decimals": 6
@@ -62,7 +62,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "6AJcP7wuLwmRYLBNbi825wgguaPsWzPBEHcHndpRpump",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f697066732e696f2f697066732f516d5274464a75335a6f737061533445416b3137694e585a47414a7037674d787a76735a636b5a7862715a613572",
       "symbol": "VINE",
       "name": "Vine",
       "decimals": 6
@@ -190,7 +190,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "hntyVP6YFm1Hg25TN9WGLqM12b8TQmcknKrdu1oxWux",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f736864772d64726976652e67656e65737973676f2e6e65742f3674636e425379625047377069454453684263725674594a44505376477244625676586d584b707a427657502f686e742e706e67",
       "symbol": "HNT",
       "name": "Helium",
       "decimals": 0
@@ -198,7 +198,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f617277656176652e6e65742f685169505a4f73525a584758424a645f3832506856646c4d5f68414373545f713677717766356353593749",
       "symbol": "BONK",
       "name": "Bonk",
       "decimals": 0
@@ -206,7 +206,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "SonicxvLud67EceaEzCLRnMTBqzYUUYNr93DBkBdDES",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f617277656176652e6e65742f3539395544516435594155666573414a43544e5a2d34454c574c485835706269642d6168706f4a2d773141",
       "symbol": "SONIC",
       "name": "Sonic SVM",
       "decimals": 0
@@ -214,7 +214,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "FUAfBo2jgks6gB4Z4LfZkqSZgzNucisEHqnNebaRxM1P",
-      "logoURI": "",
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreiduq5c43xdbcbhzx3plcdtz2jwkjpzlm2hwkoxhjgmnmqbl6otyfu",
       "symbol": "MELANIA",
       "name": "Melania Meme",
       "decimals": 0
@@ -222,7 +222,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "jupSoLaHXQiZZTSfEWMTRRgpnyFm8f6sZdosWBjx93v",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f7374617469632e6a75702e61672f6a7570534f4c2f69636f6e2e706e67",
       "symbol": "JUPSOL",
       "name": "Jupiter Staked SOL",
       "decimals": 0
@@ -230,7 +230,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "2b1kV6DkPAnxd5ixfnxCpjxmKwqjjaYmCZfHsFu24GXo",
-      "logoURI": "",
+      "logoURI": "https://statics.solscan.io/cdn/imgs/s60?ref=68747470733a2f2f3432343536352e6673312e68756273706f7475736572636f6e74656e742d6e61312e6e65742f68756266732f3432343536352f50595553444c4f474f2e706e67",
       "symbol": "PYUSD",
       "name": "PayPal USD",
       "decimals": 0
@@ -238,7 +238,7 @@
     {
       "chainId": "5eykt4UsFv8P8NJdTREpY1vzqKqZKvdp",
       "address": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-      "logoURI": "",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB/logo.svg",
       "symbol": "USDT",
       "name": "Tether",
       "decimals": 0
